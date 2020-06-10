@@ -7,7 +7,7 @@
          "productCategory":"Toothpaste",
          "productType":"Swadeshi",
          "productDesc":"Dant Manjan Is Wonderful Herbal Product That Is Recommended For The Treatment Of Teeth And Gum Diseases. The Main Role Of This Tooth Powder Is That It Provides Nourishment To The Teeth And Gums. This Natural Dental Powder May Be Used By People Of Any Age As It Is Natural And Safe. There Are No Adverse Effects Produced By This Herbal Tooth Powder. It Helps In The Treatment Of Gingivitis, Decayed Tooth, Cavities, Etc. It Is Also Recommended For Children Who Get Cavities In Teeth Due To Excessive Eating Of Sweets And Chocolates. Old People Who Suffer From Weak Teeth May Also Use This Natural Tooth Powder Everyday To Get Relief From Toothache.",
-         "alternateProducts": "1, 2",
+         "alternateProducts":"1, 2",
          "imgURL":"https://i.ebayimg.com/images/g/9gYAAOSw3vpd9ZQp/s-l400.jpg"
       },
       {
@@ -17,8 +17,58 @@
          "productCategory":"Toothpaste",
          "productType":"Swadeshi",
          "productDesc":"Vicco Vajradanti Paste in Saunf Flavour, a perfect blend of 18 Ayurvedic herbs & barks with Saunf Flavour, is itself a supreme Ayurvedic medicine for gums and teeth. It is a natural product. Each & every medicinal ingredient used in this paste and powder is very beneficial for the good health of your teeth and strong gums. Vicco Vajradanti is an effective remedy for pyorrhoea, swollen and bleeding gums and other periodontal disorders. Experience the power of Vicco Vajradanti. Remember...Prevention is better than cure.",
-         "alternateProducts": "1, 2",
+         "alternateProducts":"1, 2",
          "imgURL":"https://viccolabs.com/wp-content/uploads/2019/12/Vicco_Vajradanti_Paste_in_Saunf_Flavour.jpg"
+      },
+      {
+         "keyword":"Promise",
+         "id":101,
+         "productName":"Promise Tooth Brush",
+         "productCategory":"Tooth Brush",
+         "productType":"Swadeshi",
+         "productDesc":"",
+         "alternateProducts":"",
+         "imgURL":"https://cdn.shakedeal.com/images/detailed/391/SDBET0000300_wpz9-7x.png"
+      },
+      {
+         "keyword":"Ajay",
+         "id":102,
+         "productName":"Ajay Tooth Brush",
+         "productCategory":"Tooth Brush",
+         "productType":"Swadeshi",
+         "productDesc":"Made from premium DuPont bristle. Oval head with more bristles for better cleaning power. Rubberized handle for firm grip4. With hygienic tongue cleaner for complete mouth cleaning",
+         "alternateProducts":"",
+         "imgURL":"https://s3.ap-south-1.amazonaws.com/test-bucket-120/THBEQJQDKXFHHVH4_image.jpeg"
+      },
+      {
+         "keyword":"Ajanta",
+         "id":103,
+         "productName":"Ajanta Tooth Brush",
+         "productCategory":"Tooth Brush",
+         "productType":"Swadeshi",
+         "productDesc":"Ajanta Toothbrush’ was found by Mahipal Vijaychand Sariya in 1949 in Bombay. Being amongst the first to manufacture tooth brushes in India, today Ajanta Toothbrush is a well established brand for 60 years since its inception. The brand name has quickly grown on to become one of India’s most recognizable household names with it’s slogan “Ajanta Toothbrush papa ka, mummy ka, bhaiya ka, ...aur Ajanta mera” being widely recognized amongst the population. We are proud of the fact that the name Ajanta is trusted and relied upon by consumers all over the country. A pioneer of toothbrush industry in India, Ajanta has now introduced in its portfolio a variety of other oral care as well as hair care products, all designed to provide excellent value for money.",
+         "alternateProducts":"",
+         "imgURL":"http://ajantatoothbrush.com/home_files/Ajanta%20Super%20Clean%20Toothbrush%20full.jpg"
+      },
+      {
+         "keyword":"Colgate",
+         "id":104,
+         "productName":"Colgate Tooth Brush",
+         "productCategory":"Tooth Brush",
+         "productType":"Videshi",
+         "productDesc":"Soft toothbrush features circular power bristles to help effectively clean teeth. Easy-to-grip handle to provide comfort and control while brushing. Cleaning tip bristles to effectively reach and clean back teeth and between teeth. Helps remove tooth stains",
+         "alternateProducts":"101,102,103",
+         "imgURL":"https://images-na.ssl-images-amazon.com/images/I/81l2bK1kAcL._SL1500_.jpg"
+      },
+      {
+         "keyword":"Close-up",
+         "id":105,
+         "productName":"Close-up Tooth Brush",
+         "productCategory":"Tooth Brush",
+         "productType":"Videshi",
+         "productDesc":"Keep teeth clean and healthy with this Close-Up Style Soft Toothbrush featuring a high quality multi-colored toothbrush with curved nylon bristles, flexible massage bristles and a comfortable, textured anti-slip handle. Comes in assorted colors. Comes packaged in a blister pack.",
+         "alternateProducts":"101,102,103",
+         "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJpcYosLMAgAQJjZam2LwpokrUnvDu9zKux9hb_3U5r7H1YoHE&usqp=CAU"
       }
    ]
 }
