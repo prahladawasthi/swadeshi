@@ -1,149 +1,147 @@
 #EXTM3U
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PICTURES HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",& PICTURES HD
 http://randomserver.site:2086/live/Bria/Bria/94737.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PICTURES HD
-http://randomserver.site:2086/live/crystal/12345/94737.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PRIVE HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",& PICTURES HD
+http://randomserver.site:2086/live/crystal/12345/94737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",& PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PRIVE HD
-http://randomserver.site:2086/live/Bria/Bria/91908.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PRIVE HD
-http://randomserver.site:2086/live/crystal/12345/91908.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& TV HD
-http://randomserver.site:2086/live/Bria/Bria/94738.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& TV HD
-http://randomserver.site:2086/live/crystal/12345/94738.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",24 NEWS HD
-http://randomserver.site:2086/live/Bria/Bria/94932.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",24 NEWS HD
-http://randomserver.site:2086/live/crystal/12345/94932.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",24 NEWS LIVE TV
-http://randomserver.site:2086/live/crystal/12345/94933.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",24 NEWS LIVE TV
-http://randomserver.site:2086/live/Bria/Bria/94933.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" group-title="Music",7S Music
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/EaHWWNl.jpg" group-title="Entertainment",7Star TV
-http://media.7starcloud.com:1935/live/7star/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",8XM HD
-http://randomserver.site:2086/live/Bria/Bria/91904.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",92 NEWS HD
-http://randomserver.site:2086/live/crystal/12345/94934.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",92 NEWS HD
-http://randomserver.site:2086/live/Bria/Bria/94934.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",9XM
-http://randomserver.site:2086/live/crystal/12345/94935.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",9XM
-http://randomserver.site:2086/live/Bria/Bria/94935.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",A-PLUS
-http://randomserver.site:2086/live/crystal/12345/94936.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",A-PLUS
-http://randomserver.site:2086/live/Bria/Bria/94936.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ ENTERTAINMENT
-http://randomserver.site:2086/live/crystal/12345/94937.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ ENTERTAINMENT
-http://randomserver.site:2086/live/Bria/Bria/94937.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ KATEZ
-http://randomserver.site:2086/live/crystal/12345/91902.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ KATEZ
-http://randomserver.site:2086/live/Bria/Bria/91902.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ NEWS
-http://randomserver.site:2086/live/crystal/12345/94938.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ NEWS
-http://randomserver.site:2086/live/Bria/Bria/94938.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ TAK
-http://randomserver.site:2086/live/crystal/12345/95080.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ TAK
-http://randomserver.site:2086/live/Bria/Bria/95080.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ TAK HD
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ABB TAK PK
-http://randomserver.site:2086/live/Bria/Bria/94940.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ABB TAK PK
-http://randomserver.site:2086/live/crystal/12345/94940.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="Undefined",ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="Undefined",ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ABP Asmita
-http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="News",ABP Asmita
-https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/08/abp_asmita_in.png" group-title="News",ABP Asmita
-https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="News",ABP Asmita
-http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/08/abp_asmita_in.png" group-title="News",ABP Asmita
-https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abpmajha78.jpg" group-title="News",ABP Majha
-https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abpmajha78.jpg" group-title="News",ABP Majha
-https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News",ABP News
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Movies",ACN Cinema
-http://ammacable.com:1935/acn/acncinema/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",ACN Music
-http://ammacable.com:1935/acn/acnmusic/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",AMAR UJALA
-http://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ANIMAL PLANET
-http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
-http://randomserver.site:2086/live/Bria/Bria/91900.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
-http://randomserver.site:2086/live/crystal/12345/91900.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ANIMAL PLANET WORLD HD
-http://randomserver.site:2086/live/Bria/Bria/91899.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ANIMAL PLANET WORLD HD
-http://randomserver.site:2086/live/crystal/12345/91899.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",APB
-https://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CN;IN" tvg-logo="" group-title="Undefined",APB,印度APB
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",APNA
-http://randomserver.site:2086/live/Bria/Bria/94941.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",APNA
-http://randomserver.site:2086/live/crystal/12345/94941.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ARUJ TV
-http://randomserver.site:2086/live/Bria/Bria/95065.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ARUJ TV
-http://randomserver.site:2086/live/crystal/12345/95065.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ARY DIGITAL
-http://randomserver.site:2086/live/Bria/Bria/94942.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ARY DIGITAL
-http://randomserver.site:2086/live/crystal/12345/94942.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ARY FAMILY
-http://randomserver.site:2086/live/Bria/Bria/94943.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ARY FAMILY
-http://randomserver.site:2086/live/crystal/12345/94943.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ARY MUSIK
-http://randomserver.site:2086/live/crystal/12345/94944.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ARY MUSIK
-http://randomserver.site:2086/live/Bria/Bria/94944.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ARY NEWS
-http://randomserver.site:2086/live/crystal/12345/94945.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ARY NEWS
-http://randomserver.site:2086/live/Bria/Bria/94945.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ARY QTV
-http://randomserver.site:2086/live/crystal/12345/94946.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ARY QTV
-http://randomserver.site:2086/live/Bria/Bria/94946.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ARY ZINDAGI
-http://randomserver.site:2086/live/crystal/12345/94947.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ARY ZINDAGI
-http://randomserver.site:2086/live/Bria/Bria/94947.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ASIANET HD
-http://randomserver.site:2086/live/crystal/12345/94739.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ASIANET HD
-http://randomserver.site:2086/live/Bria/Bria/94739.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ASIANET MOVIES
-http://randomserver.site:2086/live/crystal/12345/94829.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ASIANET MOVIES
-http://randomserver.site:2086/live/Bria/Bria/94829.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ASIANET NEWS
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ASIANET PLUS
-http://randomserver.site:2086/live/cry
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",& PRIVE HD
+http://randomserver.site:2086/live/Bria/Bria/91908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",& PRIVE HD
+http://randomserver.site:2086/live/crystal/12345/91908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",& TV HD
+http://randomserver.site:2086/live/Bria/Bria/94738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",& TV HD
+http://randomserver.site:2086/live/crystal/12345/94738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",24 NEWS HD
+http://randomserver.site:2086/live/Bria/Bria/94932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",24 NEWS HD
+http://randomserver.site:2086/live/crystal/12345/94932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",24 NEWS LIVE TV
+http://randomserver.site:2086/live/crystal/12345/94933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",24 NEWS LIVE TV
+http://randomserver.site:2086/live/Bria/Bria/94933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" group-title="Music",7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="https://i.imgur.com/EaHWWNl.jpg" group-title="Entertainment",7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",8XM HD
+http://randomserver.site:2086/live/Bria/Bria/91904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",92 NEWS HD
+http://randomserver.site:2086/live/crystal/12345/94934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",92 NEWS HD
+http://randomserver.site:2086/live/Bria/Bria/94934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",9XM
+http://randomserver.site:2086/live/crystal/12345/94935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",9XM
+http://randomserver.site:2086/live/Bria/Bria/94935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",A-PLUS
+http://randomserver.site:2086/live/crystal/12345/94936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",A-PLUS
+http://randomserver.site:2086/live/Bria/Bria/94936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ ENTERTAINMENT
+http://randomserver.site:2086/live/crystal/12345/94937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ ENTERTAINMENT
+http://randomserver.site:2086/live/Bria/Bria/94937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ KATEZ
+http://randomserver.site:2086/live/crystal/12345/91902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ KATEZ
+http://randomserver.site:2086/live/Bria/Bria/91902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ NEWS
+http://randomserver.site:2086/live/crystal/12345/94938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ NEWS
+http://randomserver.site:2086/live/Bria/Bria/94938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ TAK
+http://randomserver.site:2086/live/crystal/12345/95080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ TAK
+http://randomserver.site:2086/live/Bria/Bria/95080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ABB TAK PK
+http://randomserver.site:2086/live/Bria/Bria/94940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ABB TAK PK
+http://randomserver.site:2086/live/crystal/12345/94940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="Undefined",ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="Undefined",ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ABP Asmita
+http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="News",ABP Asmita
+https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/08/abp_asmita_in.png" group-title="News",ABP Asmita
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="News",ABP Asmita
+http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/08/abp_asmita_in.png" group-title="News",ABP Asmita
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abpmajha78.jpg" group-title="News",ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abpmajha78.jpg" group-title="News",ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News",ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Movies",ACN Cinema
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Music",ACN Music
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",AMAR UJALA
+http://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://randomserver.site:2086/live/Bria/Bria/91900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://randomserver.site:2086/live/crystal/12345/91900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ANIMAL PLANET WORLD HD
+http://randomserver.site:2086/live/Bria/Bria/91899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ANIMAL PLANET WORLD HD
+http://randomserver.site:2086/live/crystal/12345/91899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",APB
+https://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="CN;IN" tvg-logo="" group-title="Undefined",APB,??APB
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",APNA
+http://randomserver.site:2086/live/Bria/Bria/94941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",APNA
+http://randomserver.site:2086/live/crystal/12345/94941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ARUJ TV
+http://randomserver.site:2086/live/Bria/Bria/95065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ARUJ TV
+http://randomserver.site:2086/live/crystal/12345/95065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ARY DIGITAL
+http://randomserver.site:2086/live/Bria/Bria/94942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ARY DIGITAL
+http://randomserver.site:2086/live/crystal/12345/94942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ARY FAMILY
+http://randomserver.site:2086/live/Bria/Bria/94943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ARY FAMILY
+http://randomserver.site:2086/live/crystal/12345/94943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ARY MUSIK
+http://randomserver.site:2086/live/crystal/12345/94944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ARY MUSIK
+http://randomserver.site:2086/live/Bria/Bria/94944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ARY NEWS
+http://randomserver.site:2086/live/crystal/12345/94945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ARY NEWS
+http://randomserver.site:2086/live/Bria/Bria/94945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ARY QTV
+http://randomserver.site:2086/live/crystal/12345/94946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ARY QTV
+http://randomserver.site:2086/live/Bria/Bria/94946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ARY ZINDAGI
+http://randomserver.site:2086/live/crystal/12345/94947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ARY ZINDAGI
+http://randomserver.site:2086/live/Bria/Bria/94947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ASIANET HD
+http://randomserver.site:2086/live/crystal/12345/94739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ASIANET HD
+http://randomserver.site:2086/live/Bria/Bria/94739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ASIANET MOVIES
+http://randomserver.site:2086/live/crystal/12345/94829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ASIANET MOVIES
+http://randomserver.site:2086/live/Bria/Bria/94829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="IN" tvg-logo="" group-title="Undefined",ASIANET NEWS
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
