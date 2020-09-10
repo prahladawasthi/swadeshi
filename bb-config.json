@@ -1,0 +1,13 @@
+{
+   "HOME_TITLE":"Welcome to BusyBox",
+   "HOME_DESC":"^^You can play videos form the free sources available on internet or the IPTV provided by the ISP.  ^^Disclaimer : Busy Box does not provide any IPTV links, playlist or channels. In order to use this app you need to have your IPTV or channel link.",
+   "SKIP_CATEGORY":"XXX",
+   "HOME_BTN_TEXT":"IPTV CAT, Padhaku Chacha TV",
+   "HOME_BTN_URL":"http://iptvcat.com,http://www.padhakuchacha.com/page/entertainment/live-tv/search-by/country",
+   "SHOW_BANNER_ADS":"true",
+   "SHOW_INTERSTITIAL_ADS":"false",
+   "ADS_DELAY":"3600",
+   "SLIDER_TEXTS":"Busy Box,World of Entertainment,Global Community,Live IPTV,Channels around the World",
+   "SLIDER_IMAGES":"https://placeimg.com/640/480/animals, https://placeimg.com/640/480/arch , https://placeimg.com/640/480/nature ,https://placeimg.com/640/480/people, https://placeimg.com/640/480/tech",
+   "SLIDER_URLS":"https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8,,,,"
+}
